@@ -32,23 +32,21 @@ const config = {
     },
     skills: {
         items: [
-            { name: 'AWS', category: 'cloud', proficiency: 95, years: 5, color: '#FF9900' },
-            { name: 'GCP', category: 'cloud', proficiency: 85, years: 3, color: '#4285F4' },
-            { name: 'Azure', category: 'cloud', proficiency: 75, years: 2, color: '#0078D4' },
+            { name: 'AWS', category: 'cloud', proficiency: 95, years: 4, color: '#FF9900' },
+            { name: 'GCP', category: 'cloud', proficiency: 85, years: 2, color: '#4285F4' },
+            { name: 'Azure', category: 'cloud', proficiency: 75, years: 1, color: '#0078D4' },
             { name: 'Kubernetes', category: 'container', proficiency: 93, years: 4, color: '#326CE5' },
             { name: 'Docker', category: 'container', proficiency: 95, years: 5, color: '#2496ED' },
-            { name: 'Terraform', category: 'devops', proficiency: 95, years: 5, color: '#7B42BC' },
-            { name: 'Ansible', category: 'devops', proficiency: 90, years: 4, color: '#EE0000' },
-            { name: 'Jenkins', category: 'devops', proficiency: 92, years: 5, color: '#D24939' },
-            { name: 'GitLab CI', category: 'devops', proficiency: 88, years: 4, color: '#FC6D26' },
-            { name: 'Prometheus', category: 'monitoring', proficiency: 92, years: 4, color: '#E6522C' },
-            { name: 'Grafana', category: 'monitoring', proficiency: 90, years: 4, color: '#F46800' },
-            { name: 'Python', category: 'devops', proficiency: 90, years: 5, color: '#3776AB' },
-            { name: 'Bash', category: 'devops', proficiency: 92, years: 5, color: '#4EAA25' },
-            { name: 'EKS', category: 'container', proficiency: 90, years: 4, color: '#FF9900' },
-            { name: 'Helm', category: 'container', proficiency: 85, years: 3, color: '#0F1689' },
-            { name: 'Airflow', category: 'devops', proficiency: 82, years: 2, color: '#017CEE' },
-            { name: 'Vault', category: 'security', proficiency: 88, years: 3, color: '#000000' }
+            { name: 'Terraform', category: 'devops', proficiency: 95, years: 3, color: '#7B42BC' },
+            { name: 'Ansible', category: 'devops', proficiency: 90, years: 2, color: '#EE0000' },
+            { name: 'Jenkins', category: 'devops', proficiency: 92, years: 3, color: '#D24939' },
+            { name: 'GitLab CI', category: 'devops', proficiency: 88, years: 1, color: '#FC6D26' },
+            { name: 'Prometheus', category: 'monitoring', proficiency: 92, years: 2, color: '#E6522C' },
+            { name: 'Grafana', category: 'monitoring', proficiency: 90, years: 2, color: '#F46800' },
+            { name: 'Python', category: 'devops', proficiency: 90, years: 2, color: '#3776AB' },
+            { name: 'Bash', category: 'devops', proficiency: 92, years: 3, color: '#4EAA25' },
+            { name: 'EKS', category: 'container', proficiency: 90, years: 3, color: '#FF9900' },
+            { name: 'Helm', category: 'container', proficiency: 85, years: 3, color: '#0F1689' }
         ]
     }
 };
