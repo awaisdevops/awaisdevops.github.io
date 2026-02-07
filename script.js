@@ -16,8 +16,8 @@ const config = {
         ],
         outputs: {
             'whoami': 'Lead DevOps Engineer | Cloud Architect | Platform Engineer',
-            'cat profile.txt': '5+ years building cloud-native infrastructure\nSpecializing in AWS, GCP, Kubernetes, Terraform\nPassionate about automation and DevSecOps',
-            'ls -la skills/': 'drwxr-xr-x  kubernetes/\ndrwxr-xr-x  terraform/\ndrwxr-xr-x  aws/\ndrwxr-xr-x  docker/\ndrwxr-xr-x  python/',
+            'cat profile.txt': '5+ years building cloud-native infrastructure\nSpecializing in AWS, GCP, Kubernetes, Terraform, CI/CD, Docker, Ansible, Nexus, Prometheus, Grafana\nPassionate about automation and DevSecOps',
+            'ls -la skills/': 'drwxr-xr-x  kubernetes/\ndrwxr-xr-x  terraform/\ndrwxr-xr-x  aws/\ndrwxr-xr-x  docker/\ndrwxr-xr-x  python/\ndrwxr-xr-x  CI/CD/\ndrwxr-xr-x  ansible/\ndrwxr-xr-x  linux/CentOS/Ubuntu',
             'docker ps': 'CONTAINER ID   STATUS    PORTS\nf5a3b2c1       Up 5min   0.0.0.0:80->80\ne2d4a1f6       Up 10min  0.0.0.0:443->443',
             'kubectl get pods': 'NAME                    READY   STATUS\napp-deployment-1        1/1     Running\napp-deployment-2        1/1     Running\napp-deployment-3        1/1     Running',
             'terraform plan': 'Plan: 15 to add, 0 to change, 0 to destroy'
